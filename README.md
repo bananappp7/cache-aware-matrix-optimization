@@ -24,7 +24,7 @@ The project compares:
 
 ---
 
-## Technical Concepts Explored
+## Related Concepts
 
   - Cache Locality
   - Blocking / Tiling
