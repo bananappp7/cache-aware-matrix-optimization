@@ -1,0 +1,2 @@
+Implementing blocking doubled the speed of multiplication, and implementing transposition reduced the time by 10%. 
+Using blocked transposition instead of naive transposition reduced multiplication time by ~3%.
